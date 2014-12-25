@@ -1,0 +1,6 @@
+git log shows me the logs.
+git diff tells me which lines were added or deleted.
+
+we can use git checkout. this command gives me previous version codes.
+
+I want to use git for saving my own projects. I want to show my works to other people and get their response!
