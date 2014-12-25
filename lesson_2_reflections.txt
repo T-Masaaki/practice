@@ -3,3 +3,6 @@ reinitialised git repository
 
 アップロードするファイルのリストをまとめておくことができる？
 よくわからない。
+
+Commit Size
+ステージングエリアは local a ごとニにコミットできているかを確認するためにも使える
