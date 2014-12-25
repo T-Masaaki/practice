@@ -5,4 +5,6 @@ reinitialised git repository
 よくわからない。
 
 Commit Size
-ステージングエリアは local a ごとニにコミットできているかを確認するためにも使える
+ステージングエリアは local ごとニにコミットできているかを確認するためにも使える
+
+when I make some types of programm like "easy-mode".
